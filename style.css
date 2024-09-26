@@ -1,0 +1,14 @@
+body {
+  margin: auto;
+  margin-top: 50px;
+  width: 50%;
+  padding: 10px;
+  font-family: "Garamond";
+  text-align: center;
+  font-size: 34px;
+}
+ p {
+   text-align: center;
+   font-family: "Calibri";
+}
+          
